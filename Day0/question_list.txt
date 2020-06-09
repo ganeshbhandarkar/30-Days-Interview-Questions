@@ -1,6 +1,5 @@
 Day1: (Arrays)
 
-
 Find the duplicate in an array of N integers.
 Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
 Repeat and Missing Number
@@ -53,7 +52,6 @@ Detect a cycle and removing loop(two different questions and same concept)
 Flattening of a LinkedList
 Rotate a LinkedList
 Clone a Linked List with random and next pointer.
-.
 
 
 Day7: (2-pointer)
