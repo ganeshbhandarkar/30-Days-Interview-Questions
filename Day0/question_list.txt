@@ -1,6 +1,6 @@
 Day1: (Arrays)
 
-Find the duplicate in an array of N integers.
+Find the duplicate in an array of N integers.  DONE  with hashing without hashing
 Sort an array of 0’s 1’s 2’s without using extra space or sorting algo
 Repeat and Missing Number
 Merge two sorted Arrays without extra space
