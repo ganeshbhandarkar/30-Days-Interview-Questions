@@ -36,3 +36,71 @@ int main(){
 	
 	return 0;
 }
+
+
+/*
+
+GeeksforGeeks : https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/
+
+// C++ code to find 
+// duplicates in O(n) time 
+#include <bits/stdc++.h> 
+using namespace std; 
+  
+// Function to print duplicates 
+void printRepeating(int arr[], int size) 
+{ 
+int i; 
+cout << "The repeating elements are:" << endl; 
+for (i = 0; i < size; i++) 
+{ 
+    if (arr[abs(arr[i])] >= 0) 
+    arr[abs(arr[i])] = -arr[abs(arr[i])]; 
+    else
+    cout << abs(arr[i]) << " "; 
+} 
+
+
+} 
+  
+// Driver Code 
+int main() 
+{ 
+    int arr[] = {1, 2, 3, 1, 3, 6, 6}; 
+    int arr_size = sizeof(arr)/sizeof(arr[0]); 
+    printRepeating(arr, arr_size); 
+    return 0; 
+} 
+  
+  / C++ code to find 
+// duplicates in O(n) time 
+
+
+
+#include <bits/stdc++.h> 
+using namespace std; 
+  
+
+int main() 
+{ 
+      
+    int numRay[] = {0, 4, 3, 2, 7, 8, 2, 3, 1}; 
+    int arr_size = sizeof(numRay) /  
+                   sizeof(numRay[0]);  
+    for (int i = 0; i < arr_size; i++) 
+    { 
+        numRay[numRay[i] % arr_size] = numRay[numRay[i] % arr_size] + arr_size; 
+    } 
+    cout << "The repeating elements are : " << endl; 
+    for (int i = 0; i < arr_size; i++)  
+    { 
+        if (numRay[i] >= arr_size*2)  
+        { 
+            cout << i << " " << endl; 
+        } 
+    } 
+    return 0; 
+} 
+  
+
+*/
