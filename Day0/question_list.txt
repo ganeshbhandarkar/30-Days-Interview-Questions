@@ -2,7 +2,7 @@ Day1: (Arrays)
 
 Find the duplicate in an array of N integers.  DONE  with hashing without hashing
 Sort an array of 0’s 1’s 2’s without using extra space or sorting algo  Attemped But NOT DONE using DUTCH FLAG ALGO
-Repeat and Missing Number
+Repeat and Missing Number DONE
 Merge two sorted Arrays without extra space
 Kadane’s Algorithm
 Merge Overlapping Subintervals
