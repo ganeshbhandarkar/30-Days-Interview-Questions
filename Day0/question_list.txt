@@ -253,3 +253,54 @@ If not made notes, spend 2 or 3  days and make notes from Knowledge Gate.
 Day30:
 
 Make a note of how will your represent your projects, and prepare all questions related to tech which you have used in your projects. Prepare a note which you can say for 3-10 minutes when he asks you that say something about the project
+
+
+# Preparation CP
+
+REPOSITORIES SORTED BY LATEST COMMIT TIME:
+Time_of_latest_commit    url     (primary_language, number_of_characters)
+2018-06-27 23:07:38 https://github.com/EgorKulikov/yaal/tree/master/lib/main/net/egork  (Java, 8483941 characters)
+2018-06-27 21:49:46 https://github.com/justcoding121/Advanced-Algorithms/tree/master/Advanced.Algorithms  (C#, 953570 characters)
+2018-06-26 21:57:32 https://github.com/bqi343/USACO/tree/master/Implementations  (C++, 565860 characters)
+2018-06-22 23:57:15 https://github.com/kth-competitive-programming/kactl  (C++, 159178 characters)
+2018-06-17 14:23:55 https://github.com/psjava/psjava  (Java, 504344 characters)
+2018-06-17 11:33:16 https://github.com/SPbSU3/algorithms/  (C++, 75052 characters)
+2018-06-16 12:49:39 https://github.com/radoslav11/Coding-Library   (C++, 146974 characters)
+2018-06-16 02:14:05 https://github.com/aalhour/C-Sharp-Algorithms  (C#, 902246 characters)
+2018-06-11 19:46:52 https://github.com/raywenderlich/swift-algorithm-club  (Swift, 959643 characters)
+2018-06-06 18:36:21 https://github.com/spaghetti-source/algorithm  (C++, 688476 characters)
+2018-06-05 20:57:57 https://github.com/jakobkogler/Algorithm-DataStructures/  (C++, 110385 characters)
+2018-06-01 09:42:39 https://github.com/indy256/codelibrary  (Java, 482416 characters)
+2018-05-30 15:12:09 https://github.com/ngthanhtrung23/ACM_Notebook_new  (C++, 159022 characters)
+2018-05-29 20:45:05 https://github.com/kunyavskiy/olymp-prewritten  (C++, 16340 characters)
+2018-05-24 17:00:32 https://github.com/sslotin/algo  (C++, 22930 characters)
+2018-05-07 21:31:10 https://github.com/jaehyunp/stanfordacm  (C++)
+2018-05-03 14:18:30 https://github.com/phishman3579/java-algorithms-implementation  (Java, 1273421 characters)
+2018-03-16 16:18:10 https://github.com/pathikrit/scalgos/tree/master/src/main/scala/com/github/pathikrit/scalgos  (Scala, 107585 characters)
+2018-02-21 10:33:58 https://github.com/felipernb/algorithms.js  (JavaScript, 224732 characters)
+2018-01-21 05:36:15 https://github.com/jainaman224/Algo_Ds_Notes  (C++, 154026 characters)
+2017-11-25 19:18:59 https://github.com/EvgenyKarkan/EKAlgorithms  (Objective-C, 175393 characters)
+2017-07-07 05:37:38 https://github.com/ADJA/algos  (C++, 141930 characters)
+2017-05-22 21:16:09 https://github.com/bobogei81123/bcw_codebook  (C++, 3752109 characters)
+2017-05-16 01:23:24 https://github.com/BrunoRB/algorithms.coffee  (CoffeeScript, 99607 characters)
+2017-02-17 15:25:37 https://github.com/rampatra/Algorithms-and-Data-Structures-in-Java/tree/master/src/me/ramswaroop/common  (Java, 481406 characters)
+2017-02-12 03:54:23 https://github.com/PetarV-/Algorithms  (C++, 198257 characters)
+2017-01-17 10:43:28 https://github.com/stjepang/snippets  (C++, 33424 characters)
+2016-10-30 16:21:53 https://github.com/prakhar1989/Algorithms  (Python, 89524 characters)
+2016-06-18 06:59:47 https://github.com/t3nsor/codebook  (C++, 71787 characters)
+2015-02-02 23:35:47 https://github.com/arnauddri/algorithms  (Go, 75069 characters)
+2014-06-29 06:31:27 https://github.com/kunyavskiy/SPbSU4-Team-Notebook  (C++, 91579 characters)
+Interestingly, some libraries were prepared by ACM ICPC world finalists. And others were written by mere enthusiasts like you and me!
+Don’t be scared by the number of characters. Some repos also contain solutions to various programming contests. Some repos contain tests along with the code. Also, Java is naturally more verbose than other languages.
+Speaking about languages, C++ is the most popular.
+Distribution of repos by programming language:
+– C++ 17
+– Java 5
+– C# 2
+– JavaScript 1
+– CoffeeScript 1
+– Swift 1
+– Python 1
+– Objective-C 1
+– Scala 1
+– Go 1
