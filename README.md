@@ -2,9 +2,9 @@
 Covering every type of questions asked in Interviews
 ======================================================
 ### Day 1
-* [Duplicating Array]
-* [Kadane Algorithm]
-* [Repeating / Missing Number]
+* Duplicating Array
+* Kadane Algorithm
+* Repeating / Missing Number
 
 ### Index
 
