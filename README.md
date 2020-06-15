@@ -8,6 +8,8 @@ Covering every type of questions asked in Interviews
 * Sort 0's,1's,2's
 * Sort 012 (Using Dutch Flag-Algorithm)
 
+======================================================
+
 ### Index
 
 * [Competitive Programming](#competitive-programming)
